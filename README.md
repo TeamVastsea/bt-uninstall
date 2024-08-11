@@ -18,7 +18,7 @@ read -p "请选择你要进行的操作(1-2 默认:1): " action;
 ## 使用方法
 
 ```bash
-wget -O bt-uninstall.sh https://raw.githubusercontent.com/zhboner/bt-uninstall/main/bt-uninstall.sh
+wget -O bt-uninstall.sh https://raw.githubusercontent.com/TeamVastsea/bt-uninstall/main/bt-uninstall.sh
 ```
 
 ## 功能
